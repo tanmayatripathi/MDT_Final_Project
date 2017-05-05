@@ -18,3 +18,8 @@ Citations-
 The above work has been taken/build upon works done from the following websites-
 1. QR Code Scanner - https://examples.javacodegeeks.com/android/android-barcode-and-qr-scanner-example/
 2. Creating and deploying Unity assets in Android - https://www.youtube.com/watch?v=HnjbTytHH6U&t=757s
+
+Technologies Used-
+1. Android SDK - https://developer.android.com/studio/index.html
+2. Vufori - https://vuforia.com/
+3. Unity - https://unity3d.com/
