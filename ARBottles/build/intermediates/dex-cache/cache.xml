@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARBottles\ARBottles\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARBottles\ARBottles\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_b3816ed6d8767b570a25b500d58c6fffc142df76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARBottles\ARBottles\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARBottles\ARBottles\build\intermediates\pre-dexed\debug\Vuforia_68c92cacdbc6bbdc769acf0c8b8a147e4e29146d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARBottles\ARBottles\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3e1e26000c5ea182451691af9ddfac2a7d574c4">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARBottles\ARBottles\build\intermediates\pre-dexed\debug\unity-classes_12a160646ea5b6fa8ad703dbc0e31b304c634451.jar" />
+    </item>
+
+</items>

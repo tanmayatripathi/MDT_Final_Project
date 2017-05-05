@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARPlants\ARPlants\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3e1e26000c5ea182451691af9ddfac2a7d574c4">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARPlants\ARPlants\build\intermediates\pre-dexed\debug\unity-classes_369c343f27f736908552e4067259272841734ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARPlants\ARPlants\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARPlants\ARPlants\build\intermediates\pre-dexed\debug\Vuforia_9bc7f1298f4da145935cf6172f1a1fa5842ec094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARPlants\ARPlants\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARPlants\ARPlants\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_bacaf1580413c61216cfbda0e850d5724e6c4927.jar" />
+    </item>
+
+</items>

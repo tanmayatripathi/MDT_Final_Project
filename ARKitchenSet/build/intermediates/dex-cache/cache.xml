@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARKitchenSet\ARKitchenSet\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARKitchenSet\ARKitchenSet\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_e25da3ecab3b9f8a04dcbb0b3278f1a89cfdcf10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARKitchenSet\ARKitchenSet\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3e1e26000c5ea182451691af9ddfac2a7d574c4">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARKitchenSet\ARKitchenSet\build\intermediates\pre-dexed\debug\unity-classes_9c298cb645522e7d945706cdb7382d2006dc6905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARKitchenSet\ARKitchenSet\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARKitchenSet\ARKitchenSet\build\intermediates\pre-dexed\debug\Vuforia_fb69930b5abb15ddf30d08962e0ecf990115de5e.jar" />
+    </item>
+
+</items>

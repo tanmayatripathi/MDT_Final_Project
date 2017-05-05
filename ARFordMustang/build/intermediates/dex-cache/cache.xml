@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARFordMustang\ARFordMustang\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3e1e26000c5ea182451691af9ddfac2a7d574c4">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARFordMustang\ARFordMustang\build\intermediates\pre-dexed\debug\unity-classes_cd95fccd4dac45f8c21028c4dcc5c8d647c162bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARFordMustang\ARFordMustang\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARFordMustang\ARFordMustang\build\intermediates\pre-dexed\debug\Vuforia_af793f008eebd963f5b68298cda4a63969678b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\ARFordMustang\ARFordMustang\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\ARFordMustang\ARFordMustang\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_2bc95c49ed917c49ff101c47904a9672aa9b5d65.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARBottles.iml" filepath="$PROJECT_DIR$/ARBottles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARBottles/ARBottles-ARBottles.iml" filepath="$PROJECT_DIR$/ARBottles/ARBottles-ARBottles.iml" />
+    </modules>
+  </component>
+</project>

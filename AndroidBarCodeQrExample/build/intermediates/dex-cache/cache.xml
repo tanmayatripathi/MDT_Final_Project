@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tanma\Downloads\VuforiaSamples-master\AndroidBarCodeQrExample\AndroidBarCodeQrExample\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\Users\tanma\Downloads\VuforiaSamples-master\AndroidBarCodeQrExample\AndroidBarCodeQrExample\build\intermediates\pre-dexed\debug\android-support-v4_4098b8bfda1bce14de7e7888bc4a81cbf37ff8a4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,44 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* proguard-unity.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => ARSpaceships\src\main\AndroidManifest.xml
+* assets\ => ARSpaceships\src\main\assets\
+* libs\armeabi-v7a\libmain.so => ARSpaceships\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => ARSpaceships\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libunity.so => ARSpaceships\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\armeabi-v7a\libVuforia.so => ARSpaceships\src\main\jniLibs\armeabi-v7a\libVuforia.so
+* libs\armeabi-v7a\libVuforiaUnityPlayer.so => ARSpaceships\src\main\jniLibs\armeabi-v7a\libVuforiaUnityPlayer.so
+* libs\armeabi-v7a\libVuforiaWrapper.so => ARSpaceships\src\main\jniLibs\armeabi-v7a\libVuforiaWrapper.so
+* libs\unity-classes.jar => ARSpaceships\libs\unity-classes.jar
+* libs\Vuforia.jar => ARSpaceships\libs\Vuforia.jar
+* libs\VuforiaUnityPlayer.jar => ARSpaceships\libs\VuforiaUnityPlayer.jar
+* res\ => ARSpaceships\src\main\res\
+* src\ => ARSpaceships\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
