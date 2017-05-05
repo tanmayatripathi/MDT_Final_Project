@@ -13,3 +13,8 @@ In order to execute the project the following needs to be done-
 
 PLEASE NOTE: Due to gradle versioning issues it is possible that android studio may not be able to compile the project. The individual apps need to be imported in Android Studio using ADT. Please avoid Gradle for this project.
 
+Citations-
+
+The above work has been taken/build upon works done from the following websites-
+1. QR Code Scanner - https://examples.javacodegeeks.com/android/android-barcode-and-qr-scanner-example/
+2. Creating and deploying Unity assets in Android - https://www.youtube.com/watch?v=HnjbTytHH6U&t=757s
